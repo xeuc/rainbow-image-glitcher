@@ -2,8 +2,8 @@
 
 make this
 
-![exemple](exemple\pacman_out.png)
+![exemple](exemple/pacman_out.png)
 
 from
 
-![input](exemple\pacman.png)
+![input](exemple/pacman.png)
